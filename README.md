@@ -1,0 +1,2 @@
+# Telcom-Customer-Churn
+This dataset originates from an Iranian telecommunications company, where each record represents a customer observed over a one-year period. In addition to a churn label, it includes details about customer activity, such as call failures and subscription duration. In this project, Machine Learning Models were built in order to predict customers churn and also to help in making delibrate changes in improving the services provided.
